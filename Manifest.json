@@ -1,0 +1,26 @@
+{
+  "name": "ZARA - Stock Intelligence AI",
+  "short_name": "ZARA AI",
+  "description": "Your personal AI stock market genius powered by Gemini",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#010d08",
+  "theme_color": "#10b981",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["finance", "productivity"],
+  "lang": "hi"
+}
